@@ -1,5 +1,6 @@
 # Retro-Pong-Game-Using-Python
-This simple game was created using python/pygame
+This simple game was created using python/pygame therefore it should be
+already installed in your system.
 
 
 the controls are:
